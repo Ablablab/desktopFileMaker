@@ -3,12 +3,12 @@
 # Usage (through Bash)
 1. Clone this repo:
 > git clone https://github.com/Ablablab/desktopFileMaker.git
-* Go into folder
+2. Go into folder
 > cd desktopFileMaker
-* Set correctly permissions with:
+3. Set correctly permissions with:
 > make install
 
-* Use it!
+4. Use it!
 > ./desktopMaker.sh
 
 
